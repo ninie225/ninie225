@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Marine 
 
-- 💻 Actuellement en formation en développement web à l'AFPA d'Amiens. 
+- 💻 Actuellement en formation en développement d'applications.
 - 🎓 Parcours : BTS SIO option SLAM | Licence Informatique | Expériences en support et développement.  
 - 🌱 En reconversion depuis le domaine de la santé, je suis passionnée par les **nouvelles technologies** et la **création d’applications**.  
 
