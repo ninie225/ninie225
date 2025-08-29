@@ -15,7 +15,7 @@
 ## 🚀 Projets
 - 🌐 **Refonte du site immobilier [roy-immo.fr](http://roy-immo.fr/)** (WordPress)  
 - 🏥 **Technicienne informatique hospitalière** (au CHU d'Amiens) : support utilisateurs & gestion de parc  
-- 📚 [À venir] Projets full-stack (JavaScript, React, Node.js)  
+- 📚 À venir: Projets full-stack (JavaScript, React, Node.js)  
 
 
 ## 📌 Objectifs 2025
